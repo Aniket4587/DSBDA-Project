@@ -52,7 +52,7 @@ Genetic  factors  are the  main  cause  of diabetes.  It  is caused  by  at  lea
 
 ## Conclusion:
 
-One of the important real-world medical problems is the  detection  of  Diabetes  at  its  early  stage.  In  this study,  systematic  efforts  are  made  in  designing  a system  which  results  in  the  prediction  of  Diabetes. During this work, five machine learning classification algorithms  are  studied  and  evaluated  on  various measures.  Experiments  are  performed  on Diabetes  Database.  Experimental  results  determine the  adequacy  of  the  designed  system  with  an achieved  accuracy  of  99%  using  Random Forest Algorithm.  
+One of the important real-world medical problems is the  detection  of  Diabetes  at  its  early  stage.  In  this study,  systematic  efforts  are  made  in  designing  a system  which  results  in  the  prediction  of  Diabetes. During this work, five machine learning classification algorithms  are  studied  and  evaluated  on  various measures.  Experiments  are  performed  on Diabetes  Database.  Experimental  results  determine the  adequacy  of  the  designed  system  with  an achieved  accuracy  of  95%  using  Random Forest Algorithm.  
 
 
 Thank You!!!
